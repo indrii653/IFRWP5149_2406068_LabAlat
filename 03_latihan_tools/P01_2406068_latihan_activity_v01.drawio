@@ -1,0 +1,31 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="l17k23NF4btDmVxorTJF">
+    <mxGraphModel dx="678" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_iUyigC-myQKSac6E6Ep-12" edge="1" parent="1" source="_iUyigC-myQKSac6E6Ep-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_iUyigC-myQKSac6E6Ep-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_iUyigC-myQKSac6E6Ep-7" parent="1" style="ellipse;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="320" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_iUyigC-myQKSac6E6Ep-8" parent="1" style="ellipse;html=1;shape=endState;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="320" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="_iUyigC-myQKSac6E6Ep-14" edge="1" parent="1" source="_iUyigC-myQKSac6E6Ep-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_iUyigC-myQKSac6E6Ep-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_iUyigC-myQKSac6E6Ep-11" parent="1" style="whiteSpace=wrap;html=1;" value="Buat daftar peralatan" vertex="1">
+          <mxGeometry height="60" width="120" x="275" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="_iUyigC-myQKSac6E6Ep-16" edge="1" parent="1" source="_iUyigC-myQKSac6E6Ep-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_iUyigC-myQKSac6E6Ep-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_iUyigC-myQKSac6E6Ep-13" parent="1" style="whiteSpace=wrap;html=1;" value="Lihat informasi ketersediaan" vertex="1">
+          <mxGeometry height="60" width="120" x="275" y="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
