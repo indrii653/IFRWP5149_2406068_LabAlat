@@ -2,7 +2,7 @@
 
 ### Praktikum Analisis Desain Berorientasi Objek
 
-- 🌱 I'm currently learning **Pengenalan Lingkungan Praktikum dan Kakas Pemodelan UML**
+- 🌱 I'm currently learning **Latihan notasi fungsi laboratorium**
 
 - 📫 How to reach me **stindri06@gmail.com**
 
