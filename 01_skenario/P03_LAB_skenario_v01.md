@@ -37,6 +37,7 @@ pada potongan model ini.
 | Petugas laboratorium|            Mengelola peralatan dan memproses keputusan            |
 | Kepala  laboratorium|               Melihat laporan peminjaman                          |
 
+
 <!-- Tabel Katalog Use Case -->
 |   ID   | Nama       use        case   |           Peran dalam model           |
 |--------|------------------------------|---------------------------------------|
@@ -47,3 +48,13 @@ pada potongan model ini.
 |LAB-UC05| Cetak    bukti    pengajuan  | Fungsi utama petugas                  |
 |LAB-UC06|Proses  keputusan  peminjaman | Tambahan bersyarat pada UC03          |
 |LAB-UC07| Lihat   laporan   peminjaman | Fungsi utama kepala laboratorium      |
+
+<!-- Relasi Include -->
+LAB-UC03 «include» LAB-UC04 
+Alasan: pemeriksaan menjadi bagian validasi pengajuan.
+
+<!-- Relasi Extends -->
+LAB-UC05 «extend» LAB-UC03 
+Extension point: Bukti pengajuan tersedia. 
+Kondisi: [mahasiswa memilih cetak]. 
+Alasan: pengajuan tetap berhasil tanpa pencetakan.

@@ -8,4 +8,4 @@ Pembuat             : [Siti Indriani 2406068]
 Versi dan tanggal   : v01/ [09-10-2026]
 Asumsi/pertanyaan   : Hak akses sesuai; autentikasi di luar latihan
 Pemeriksaan         : [Hasil review]
-Riwayat revisi      : [perubahan]
+Riwayat revisi      : [perubahan yang benar-benar dilakukan]
