@@ -2,7 +2,7 @@
 
 ### Praktikum Analisis Desain Berorientasi Objek
 
-- 🌱 I'm currently learning **USE CASE DIAGRAM DAN USE CASE DESCRIPTION**
+- 🌱 I'm currently learning **Penulisan Skenario Use Case**
 
 - 📫 How to reach me **stindri06@gmail.com**
 
